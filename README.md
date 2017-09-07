@@ -1,6 +1,6 @@
 ### ProjectQ
-===
-===
+---
+---
 Contributors:
 
 Maninderpal Singh
